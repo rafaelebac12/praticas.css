@@ -1,0 +1,31 @@
+.menu {
+    background-color: yellow;
+
+
+}
+
+.produtos {
+    text-align: center;
+    justify-content: space-between;
+}
+
+.produto {
+    margin: 120px;
+
+    &__imagem {
+        margin-bottom: 16px;
+        font-family: sans-serif;
+        padding: 20px;
+        border: 1px solid #ccc;
+    }
+
+    &__nome{
+        font-size: bold;
+        padding: 10px;
+    }
+
+    &__descricao {
+        font-size: bold;
+        
+    }
+}

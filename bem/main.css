@@ -1,0 +1,28 @@
+.menu {
+  background-color: yellow;
+}
+
+.produtos {
+  text-align: center;
+  justify-content: space-between;
+}
+
+.produto {
+  margin: 50px;
+}
+.produto__imagem {
+  margin-bottom: 16px;
+  font-family: sans-serif;
+  padding: 20px;
+  border: 1px solid #ccc;
+
+}
+.produto__nome {
+  font-size: bold;
+  padding: 10px;
+}
+.produto__descricao {
+  font-size: bold;
+}
+
+/*# sourceMappingURL=main.css.map */
